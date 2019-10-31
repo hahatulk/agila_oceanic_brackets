@@ -1,0 +1,24 @@
+{
+  "title": "Agila Oceanic Next",
+  "name": "agila_oceanic_next",
+  "description": "Port of this theme from Sublime Text 3 repo",
+  "version": "1.0.0",
+  "author": {
+    "name": "Hahatulk",
+    "url": "https://github.com/hahatulk"
+    },
+  "homepage": "",
+  "repository": {
+    "type": "",
+    "url": ""
+    },
+  "license": "",
+  "engines": {
+    "brackets": ">=1.3.0"
+    },
+  "theme": {
+    "file": "main.min.css",
+    "dark": true
+    },
+  "keywords": ["theme","agila","dark","oceanic","sublime","fork","css","pastel","hahatulk","html","port"]
+}
